@@ -1,0 +1,8 @@
+site_name: HOG Blog
+site_url: https://cgillam0513.github.io/hogblog
+theme:
+  name: material
+  
+plugins:
+  - search
+  - blog
