@@ -1,7 +1,6 @@
 ---
 layout: post
-date:
-  created: 2026-02-06
+date: 2026-02-06
 title: "Why I'm Switching To Machine Learning"
 ---
 
